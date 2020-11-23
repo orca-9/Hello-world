@@ -1,2 +1,2 @@
 # Hello-world
-Data science is the next trend. 
+Data science is the next trend
